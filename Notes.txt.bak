@@ -1,0 +1,7 @@
+1) On this project I've developed the APIs to perform the CRUD Operation using Episerver Content Management API
+2) We have also installed the Content Delievery API to get requests but the Content Delievery API can only used to read the data (GET) request.
+3) I've also used the JWT Auth token to validate the HTTP request.
+4) You can access the swagger to check the API class.
+5) Writen and Excute the Unit for CRUD APIs method.
+6) To open CMS and validate the Article Page you can use username as keshav and password as Davekeshav4you@
+7) Make sure your system supports the correct .Net version to perform the project as expected.
